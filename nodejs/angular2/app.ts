@@ -1,0 +1,1 @@
+import {component} from "angular2/core";
